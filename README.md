@@ -97,7 +97,7 @@ def train_model(model, train_loader, criterion, optimizer, epochs):
 
 ## TESTCASE
 
-![Screenshot 2025-04-08 173117](https://github.com/user-attachments/assets/ad1bc92c-26d7-4945-97e5-46d05df3272e)
+<img width="1024" height="266" alt="image" src="https://github.com/user-attachments/assets/24b2c30f-0da6-487e-9c9c-6cd2c285f1fd" />
 
 
 ### Confusion Matrix
