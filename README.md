@@ -199,7 +199,7 @@ print(f'Actual class for sample input: {label_encoder.inverse_transform([y_test[
 
 ### New Sample Data Prediction
 
-![alt text](image-5.png)
+<img width="1024" height="377" alt="image" src="https://github.com/user-attachments/assets/dacada10-a8b4-427a-89d3-fe87c29b4c69" />
 
 ## RESULT
 
