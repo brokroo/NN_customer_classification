@@ -104,20 +104,14 @@ def train_model(model, train_loader, criterion, optimizer, epochs):
 
 ![Screenshot 2025-04-08 173109](https://github.com/user-attachments/assets/1c828842-3a00-4095-9b42-257fcf5ccb12)
 
-![Screenshot 2025-04-08 173057](https://github.com/user-attachments/assets/fbfec494-1deb-4c69-9021-7b8a5d35f73f)
+<img width="650" height="546" alt="image" src="https://github.com/user-attachments/assets/038d6539-ad88-4b16-94a6-82025a9f77b4" />
 
 
 
 ### Classification Report
 
 
-![Screenshot 2025-04-08 173036](https://github.com/user-attachments/assets/44087492-c6bc-4b17-8f8a-dfaf79ec4d32)
-
-
-
-### New Sample Data Prediction
-
-<img width="1024" height="377" alt="image" src="https://github.com/user-attachments/assets/f4057402-62e5-403b-aaa3-c7b8066af489" />
+<img width="852" height="279" alt="image" src="https://github.com/user-attachments/assets/f43da371-299b-4bd4-a5c0-ca1cedbb5c03" />
 
 
 
