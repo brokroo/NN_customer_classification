@@ -211,11 +211,13 @@ print(f'Actual class for sample input: {actual_class_label}')
 ![Screenshot 2025-03-17 113110](https://github.com/user-attachments/assets/876b68a3-3a95-4f72-84db-a2f05312f01f)
 
 
+
 ## OUTPUT
 
-## TESTCASE
+## EPOCH
 
 <img width="507" height="357" alt="image" src="https://github.com/user-attachments/assets/0a816190-7180-4073-b0fd-15626d3acf01" />
+<img width="844" height="561" alt="image" src="https://github.com/user-attachments/assets/a1a1ca8b-c559-47ea-baf1-6d877b662aca" />
 
 
 ### Confusion Matrix
