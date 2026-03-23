@@ -110,15 +110,14 @@ def train_model(model, train_loader, criterion, optimizer, epochs):
 
 ### Classification Report
 
-<img width="1745" height="534" alt="image" src="https://github.com/user-attachments/assets/2783914c-1998-45a5-aa56-c3ec0e5a798e" />
+<img width="1368" height="431" alt="image" src="https://github.com/user-attachments/assets/09e7ae29-6dfd-44c0-8887-ed57206ae77f" />
 
 
 
 ### New Sample Data Prediction
 
 
-
-<img width="1745" height="94" alt="image" src="https://github.com/user-attachments/assets/2d744c39-2824-42a7-b268-e1ef9f2daa60" />
+<img width="577" height="117" alt="image" src="https://github.com/user-attachments/assets/de18d6ed-6824-487b-960f-1cce78076302" />
 
 ## RESULT
 Thus, a neural network classification model for the given dataset as been created successfully.
