@@ -104,20 +104,20 @@ def train_model(model, train_loader, criterion, optimizer, epochs):
 
 ### Confusion Matrix
 
-<img width="1739" height="532" alt="image" src="https://github.com/user-attachments/assets/b2af062d-63fb-48be-9251-37cb3aa3bbb4" />
+<img width="981" height="643" alt="image" src="https://github.com/user-attachments/assets/9ff25b21-0b8e-4a1a-a6ca-2f98331cb606" />
 
 
 
 ### Classification Report
 
-<img width="1368" height="431" alt="image" src="https://github.com/user-attachments/assets/09e7ae29-6dfd-44c0-8887-ed57206ae77f" />
+<img width="1164" height="522" alt="image" src="https://github.com/user-attachments/assets/21fd414f-969b-4b92-ab32-4ecbb09761c8" />
 
 
 
 ### New Sample Data Prediction
 
 
-<img width="577" height="117" alt="image" src="https://github.com/user-attachments/assets/de18d6ed-6824-487b-960f-1cce78076302" />
+<img width="981" height="139" alt="image" src="https://github.com/user-attachments/assets/1a1792f8-791a-422f-8530-3d2e11281f8a" />
 
 ## RESULT
 Thus, a neural network classification model for the given dataset as been created successfully.
